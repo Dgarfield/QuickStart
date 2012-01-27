@@ -100,4 +100,3 @@ try {
  
 // generally speaking, this script will be run from the command line
 return true;
-?>

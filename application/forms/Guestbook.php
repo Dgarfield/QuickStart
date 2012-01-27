@@ -50,4 +50,3 @@ class Application_Form_Guestbook extends Zend_Form
         ));
     }
 }
-?>

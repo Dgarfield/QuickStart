@@ -69,4 +69,3 @@ class Application_Model_GuestbookMapper
         return $entries;
     }
 }
-?>
